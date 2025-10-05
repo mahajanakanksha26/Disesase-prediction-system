@@ -1,0 +1,25 @@
+How to Run the Disease Prediction System
+=====================================
+
+1. Open PowerShell
+   - Press Windows key
+   - Type "PowerShell"
+   - Click on "Windows PowerShell"
+
+2. Copy and paste these commands one by one:
+
+   cd "D:\a project"
+   .\venv\Scripts\activate
+   python app.py
+
+3. Open your web browser
+   - Go to: http://127.0.0.1:5000
+
+4. To stop the server:
+   - Go back to PowerShell
+   - Press Ctrl + C
+
+Remember:
+- Keep PowerShell open while using the website
+- You'll see (venv) at the start of the line when virtual environment is active
+- The warning message about "development server" is normal 
